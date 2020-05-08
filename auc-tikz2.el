@@ -481,3 +481,7 @@ to matcher-list."
       (overlay-put o-match 'children overlays))
     ))
 )
+
+(provide 'auc-tikz2)
+
+;;; auc-tikz2 ends here
